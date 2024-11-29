@@ -1,8 +1,5 @@
-print("hello world")
+print("hello skill shik...")
 
-#############
-###########
 
-#git add .
-#git commit -m "first programes"
-#git push
+
+
