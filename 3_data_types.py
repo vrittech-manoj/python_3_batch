@@ -1,14 +1,12 @@
 num = 5
+name = "ram" #str
+age = "980" #str
+roll = 567 #int
 
-name = "ram"
+# print(name)
+# print(age)
 
-age = "980"
+print("type of name is: ",type(name))
+print("type of age is: ",type(age))
+print("type of roll is: ",type(roll))
 
-print(name)
-print(age)
-
-1
-2
-3
-4
-10
