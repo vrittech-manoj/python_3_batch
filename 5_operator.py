@@ -18,3 +18,8 @@ print(f"multiply of {a} and {b} is " , a*b)
 
 #what are the use of end in print("hello world",end=',')
 #what is logical operator and there it's types with example.
+
+first_name = "ram" 
+second_name = "shyam" 
+
+"a" in first_name ?
