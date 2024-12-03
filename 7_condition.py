@@ -25,7 +25,7 @@
 #     print("you can not vote")
 
 #class work
-age = 6
+age = 6 #take user input
 # WAP to output like {child,adult....old} 
 if isinstance(age,str) and age.isdigit() == False: # if not age.isdigit():
     print("invalid age")
