@@ -1,2 +1,5 @@
 
 dell i5,dell,4500,8
+dell i5,acer,4500,9
+dell i5,dell,4500,8
+dell i5,dell,4500,12

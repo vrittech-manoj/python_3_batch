@@ -45,7 +45,17 @@ class ComputerShop:
             file_obj.write(f"\n{name},{brand},{price},{quantity}")
 
     def search_computer(self):
-        pass
+        what_to_search = input("Enter pc name#>>>")
+        with open(self.file_path,"r") as file_obj:
+            data = file_obj.readlines()
+        
+        for item in data:
+            if what_to_search in item:
+                print("Search found ",item)
+                return 
+        print("search not found!")
+        
+        # print(data)
     def delete_computer(self):
         pass
     def read_computer(self):
