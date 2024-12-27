@@ -1,0 +1,2 @@
+1,Acer vostro,95000,core i5
+2,dell vostro,95000,core i5
